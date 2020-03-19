@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movie Catalogue Pro</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="released_date">Released date :</string>
+    <string name="overview">Overview :</string>
+    <string name="language">Language :</string>
+    <string name="popularity">Popularity :</string>
+    <string name="vote_average">Vote Avg. :</string>
+    <string name="first_aired">First Aired :</string>
+    <string name="swipe_up">Swipe up</string>
+    <string name="movie_backdrop">Movie Backdrop</string>
+    <string name="background">Background</string>
+    <string name="failed_to_load">Failed to load data. Check your connection and tap to refresh</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite">Favorite</string>
+    <string name="background_icon">background icon</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="swipe_up_logo">Swipe up logo</string>
+    <string name="tv_show_poster">TV Show Poster</string>
+    <string name="language_icon">Language icon</string>
+    <string name="vote_icon">Vote icon</string>
+    <string name="popularty_icon">Popularty icon</string>
+    <string name="tv_show_backdrop">TV show backdrop</string>
+    <string name="date_icon">date icon</string>
+
+</resources>

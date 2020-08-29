@@ -31,12 +31,28 @@ class MainActivityTest{
     * - Start
     * - Open Movie in 4th list
     * - Swipe up and Check release date
+    * - Add to favorite
     * - Back
+     *
     * - Move to TvShow Fragment
     * - Open TV Show in 4th list
     * - Swipe up and check overview
+    * - Add to favorite
     * - Back
-    * - Move to Movie Fragment
+     *
+    * - Move to Favorite Movie
+    * - Check if added Movie Title exist
+    * - Open added Movie
+    * - Remove from Favorite
+    * - Back
+    * -  Check if removed Movie Title does not exist
+     *
+    * -  Move to Favorite TV Show
+    * - Check if added TV Show Title exist
+    * - Open added TV Show
+    * - Remove from Favorite
+    * - Back
+    * -  Check if removed TV Show Title does not exist
     * - End
     **/
     @Rule

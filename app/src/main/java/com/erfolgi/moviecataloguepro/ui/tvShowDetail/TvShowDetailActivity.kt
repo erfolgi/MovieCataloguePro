@@ -24,8 +24,8 @@ class TvShowDetailActivity : AppCompatActivity() {
     companion object{
         var EXTRA_TV_ID="EXTRA_TV_ID"
     }
-    lateinit var loading : CircularProgressDrawable
-    lateinit var vm : TvShowDetailViewModel
+    private lateinit var loading : CircularProgressDrawable
+    private lateinit var vm : TvShowDetailViewModel
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
